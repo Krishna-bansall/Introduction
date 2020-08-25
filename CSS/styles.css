@@ -1,0 +1,34 @@
+/* Body Modifictions */
+body {
+  background-color: #fbecec;
+}
+/* H1 Heading Modifications */
+hr {border-color:#9cada4;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 8%;
+}
+h1{
+   color: #66bfbf;
+}
+h1:hover{
+  color:#ea5455;
+}
+/* H3 Heading Modifications */
+h3{
+    color: rgb(236, 82, 82);
+ }
+h3:hover{
+  color: #66bfbf;
+}
+.profile-pics{
+  border-style: none;
+  border-radius: 100%;
+}
+.profile-pics:hover{
+  border-style: dotted;
+  border-color: #ea5455;
+  border-width: 2px;
+}
+ 
